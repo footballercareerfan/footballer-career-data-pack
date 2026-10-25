@@ -1,0 +1,520 @@
+{
+  "leagues": [
+    {
+      "leagueKey": "English League",
+      "name": "English Premier League",
+      "secondLeague": {
+        "key": "English Second League",
+        "name": "English EFL Championship"
+      }
+    },
+    {
+      "leagueKey": "Spanish League",
+      "name": "Spanish LALIGA EA SPORTS",
+      "secondLeague": {
+        "key": "Spanish Second League",
+        "name": "Spanish LALIGA HYPERMOTION"
+      }
+    },
+    {
+      "leagueKey": "Italian League",
+      "name": "Italian Serie A",
+      "secondLeague": {
+        "key": "Italian Second League",
+        "name": "Italian Serie B"
+      }
+    },
+    {
+      "leagueKey": "German League",
+      "name": "German Bundesliga",
+      "secondLeague": {
+        "key": "German Second League",
+        "name": "German 2. Bundesliga"
+      }
+    },
+    {
+      "leagueKey": "French League",
+      "name": "French Ligue 1 McDonald's",
+      "secondLeague": {
+        "key": "French Second League",
+        "name": "French Ligue 2"
+      }
+    },
+    {
+      "leagueKey": "Portuguese League",
+      "name": "Portuguese Liga Portugal",
+      "secondLeague": {
+        "key": "Portuguese Second League",
+        "name": "Portuguese Liga Portugal 2"
+      }
+    },
+    {
+      "leagueKey": "Dutch League",
+      "name": "Dutch Eredivisie",
+      "secondLeague": {
+        "key": "Dutch Second League",
+        "name": "Dutch Eerste Divisie"
+      }
+    },
+    {
+      "leagueKey": "Belgian League",
+      "name": "Belgian Jupiler Pro League",
+      "secondLeague": {
+        "key": "Belgian Second League",
+        "name": "Belgian Challenger Pro League"
+      }
+    },
+    {
+      "leagueKey": "Turkish League",
+      "name": "Turkish Trendyol Süper Lig",
+      "secondLeague": {
+        "key": "Turkish Second League",
+        "name": "Turkish Trendyol 1. Lig"
+      }
+    },
+    {
+      "leagueKey": "Czech League",
+      "name": "Czech Chance Liga",
+      "secondLeague": {
+        "key": "Czech Second League",
+        "name": "Czech Chance Národní Liga"
+      }
+    },
+    {
+      "leagueKey": "Greek League",
+      "name": "Greek Super League",
+      "secondLeague": {
+        "key": "Greek Second League",
+        "name": "Greek Super League 2"
+      }
+    },
+    {
+      "leagueKey": "Polish League",
+      "name": "Polish Ekstraklasa",
+      "secondLeague": {
+        "key": "Polish Second League",
+        "name": "Polish I liga"
+      }
+    },
+    {
+      "leagueKey": "Danish League",
+      "name": "Danish 3F Superliga",
+      "secondLeague": {
+        "key": "Danish Second League",
+        "name": "Danish 1. Division"
+      }
+    },
+    {
+      "leagueKey": "Norwegian League",
+      "name": "Norwegian Eliteserien",
+      "secondLeague": {
+        "key": "Norwegian Second League",
+        "name": "Norwegian OBOS-ligaen"
+      }
+    },
+    {
+      "leagueKey": "Cypriot league",
+      "name": "Cypriot League by Stoiximan"
+    },
+    {
+      "leagueKey": "Swiss League",
+      "name": "Swiss Brack Super League",
+      "secondLeague": {
+        "key": "Swiss Second League",
+        "name": "Swiss Challenge League"
+      }
+    },
+    {
+      "leagueKey": "Austrian League",
+      "name": "Austrian Bundesliga",
+      "secondLeague": {
+        "key": "Austrian Second League",
+        "name": "Austrian 2. Liga"
+      }
+    },
+    {
+      "leagueKey": "Scottish League",
+      "name": "Scottish Premiership",
+      "secondLeague": {
+        "key": "Scottish Second League",
+        "name": "Scottish Championship"
+      }
+    },
+    {
+      "leagueKey": "Swedish League",
+      "name": "Swedish Allsvenskan",
+      "secondLeague": {
+        "key": "Swedish Second League",
+        "name": "Swedish Superettan"
+      }
+    },
+    {
+      "leagueKey": "Croatian League",
+      "name": "Croatian SuperSport HNL"
+    },
+    {
+      "leagueKey": "Hungarian League",
+      "name": "Hungarian OTP Bank Liga"
+    },
+    {
+      "leagueKey": "Ukrainian League",
+      "name": "Ukrainian Premier League"
+    },
+    {
+      "leagueKey": "Serbian League",
+      "name": "Serbian SuperLiga"
+    },
+    {
+      "leagueKey": "Romanian League",
+      "name": "Romanian SuperLiga"
+    },
+    {
+      "leagueKey": "Slovenian League",
+      "name": "Slovenian PrvaLiga"
+    },
+    {
+      "leagueKey": "Azerbaijani League",
+      "name": "Azerbaijani Premier League"
+    },
+    {
+      "leagueKey": "Slovak League",
+      "name": "Slovak Niké liga"
+    },
+    {
+      "leagueKey": "Bulgarian League",
+      "name": "Bulgarian First Professional League"
+    },
+    {
+      "leagueKey": "Irish League",
+      "name": "Irish Premier Division",
+      "secondLeague": {
+        "key": "Irish Second League",
+        "name": "Irish First Division"
+      }
+    },
+    {
+      "leagueKey": "Icelandic League",
+      "name": "Icelandic Besta deild karla"
+    },
+    {
+      "leagueKey": "Moldovan league",
+      "name": "Moldovan Super Liga"
+    },
+    {
+      "leagueKey": "Finnish League",
+      "name": "Finnish Veikkausliiga"
+    },
+    {
+      "leagueKey": "Kosovan league",
+      "name": "Kosovan Superliga e Kosovës"
+    },
+    {
+      "leagueKey": "Kazakh League",
+      "name": "Kazakh Premier League"
+    },
+    {
+      "leagueKey": "Bosnia and Herzegovina League",
+      "name": "Bosnian Premier League"
+    },
+    {
+      "leagueKey": "Latvian league",
+      "name": "Latvian Virslīga"
+    },
+    {
+      "leagueKey": "Maltese League",
+      "name": "Maltese Premier League"
+    },
+    {
+      "leagueKey": "Albanian League",
+      "name": "Albanian Kategoria Superiore"
+    },
+    {
+      "leagueKey": "North Macedonian league",
+      "name": "North Macedonian First Football League"
+    },
+    {
+      "leagueKey": "Lithuanian League",
+      "name": "Lithuanian A Lyga"
+    },
+    {
+      "leagueKey": "Belarusian League",
+      "name": "Belarusian Premier League"
+    },
+    {
+      "leagueKey": "Montenegrin League",
+      "name": "Montenegrin First League"
+    },
+    {
+      "leagueKey": "Georgian League",
+      "name": "Georgian Erovnuli Liga"
+    },
+    {
+      "leagueKey": "Russian League",
+      "name": "Russian Premier League"
+    },
+    {
+      "leagueKey": "Brazilian League",
+      "name": "Brazilian Série A",
+      "secondLeague": {
+        "key": "Brazilian Second League",
+        "name": "Brazilian Série B"
+      }
+    },
+    {
+      "leagueKey": "Argentine League",
+      "name": "Argentine Liga Profesional de Fútbol",
+      "secondLeague": {
+        "key": "Argentine Second League",
+        "name": "Argentine Primera Nacional"
+      }
+    },
+    {
+      "leagueKey": "Colombian League",
+      "name": "Colombian Liga BetPlay Dimayor",
+      "secondLeague": {
+        "key": "Colombian Second League",
+        "name": "Colombian Torneo BetPlay Dimayor"
+      }
+    },
+    {
+      "leagueKey": "Chilean League",
+      "name": "Chilean Liga de Primera",
+      "secondLeague": {
+        "key": "Chilean Second League",
+        "name": "Chilean Primera B"
+      }
+    },
+    {
+      "leagueKey": "Uruguayan League",
+      "name": "Uruguayan Liga AUF",
+      "secondLeague": {
+        "key": "Uruguayan Second League",
+        "name": "Uruguayan Segunda División"
+      }
+    },
+    {
+      "leagueKey": "Peruvian League",
+      "name": "Peruvian Liga1 Te Apuesto"
+    },
+    {
+      "leagueKey": "Ecuadorian League",
+      "name": "Ecuadorian LigaPro Serie A"
+    },
+    {
+      "leagueKey": "Paraguayan League",
+      "name": "Paraguayan Copa de Primera Tigo Ueno Bank"
+    },
+    {
+      "leagueKey": "Venezuelan League",
+      "name": "Venezuelan Liga FUTVE"
+    },
+    {
+      "leagueKey": "Bolivian League",
+      "name": "Bolivian División Profesional"
+    },
+    {
+      "leagueKey": "American League",
+      "name": "American Major League Soccer"
+    },
+    {
+      "leagueKey": "Mexican League",
+      "name": "Mexican Liga MX",
+      "secondLeague": {
+        "key": "Mexican Second League",
+        "name": "Mexican Liga de Expansión MX"
+      }
+    },
+    {
+      "leagueKey": "Canadian League",
+      "name": "Canadian Premier League"
+    },
+    {
+      "leagueKey": "Costa Rican league",
+      "name": "Costa Rican Primera División"
+    },
+    {
+      "leagueKey": "Dominican Republic League",
+      "name": "Dominican Liga Dominicana de Fútbol"
+    },
+    {
+      "leagueKey": "Puerto Rican league",
+      "name": "Puerto Rican Liga Puerto Rico"
+    },
+    {
+      "leagueKey": "Panamanian League",
+      "name": "Panamanian Liga Panameña de Fútbol"
+    },
+    {
+      "leagueKey": "Honduran League",
+      "name": "Honduran Liga Nacional"
+    },
+    {
+      "leagueKey": "Guatemalan League",
+      "name": "Guatemalan Liga Nacional"
+    },
+    {
+      "leagueKey": "Salvadoran League",
+      "name": "Salvadoran Primera División"
+    },
+    {
+      "leagueKey": "Nicaraguan League",
+      "name": "Nicaraguan Liga Primera"
+    },
+    {
+      "leagueKey": "Jamaican League",
+      "name": "Jamaican Premier League"
+    },
+    {
+      "leagueKey": "Egyptian League",
+      "name": "Egyptian Premier League"
+    },
+    {
+      "leagueKey": "Moroccan League",
+      "name": "Moroccan Botola Pro"
+    },
+    {
+      "leagueKey": "South African League",
+      "name": "South African Betway Premiership"
+    },
+    {
+      "leagueKey": "Algerian League",
+      "name": "Algerian Ligue 1 Mobilis"
+    },
+    {
+      "leagueKey": "Tunisian League",
+      "name": "Tunisian Ligue Professionnelle 1"
+    },
+    {
+      "leagueKey": "Ivorian league",
+      "name": "Ivorian Ligue 1 LONACI"
+    },
+    {
+      "leagueKey": "Angolan league",
+      "name": "Angolan Girabola"
+    },
+    {
+      "leagueKey": "Libyan league",
+      "name": "Libyan Premier League"
+    },
+    {
+      "leagueKey": "Nigerian League",
+      "name": "Nigerian Premier Football League"
+    },
+    {
+      "leagueKey": "Kenyan league",
+      "name": "Kenyan Premier League"
+    },
+    {
+      "leagueKey": "Senegalese league",
+      "name": "Senegalese Ligue 1 Sénégal"
+    },
+    {
+      "leagueKey": "Ghanaian league",
+      "name": "Ghanaian Premier League"
+    },
+    {
+      "leagueKey": "South Korean League",
+      "name": "South Korean K League 1",
+      "secondLeague": {
+        "key": "South Korean Second League",
+        "name": "South Korean K League 2"
+      }
+    },
+    {
+      "leagueKey": "Japan League",
+      "name": "Japanese J1 League"
+    },
+    {
+      "leagueKey": "Thai League",
+      "name": "Thai League 1"
+    },
+    {
+      "leagueKey": "Chinese League",
+      "name": "Chinese Super League"
+    },
+    {
+      "leagueKey": "Australian League",
+      "name": "Australian A-League Men"
+    },
+    {
+      "leagueKey": "Vietnam League",
+      "name": "Vietnamese V.League 1"
+    },
+    {
+      "leagueKey": "Malaysian League",
+      "name": "Malaysian Super League"
+    },
+    {
+      "leagueKey": "Singapore League",
+      "name": "Singaporean Premier League"
+    },
+    {
+      "leagueKey": "Hong Kong League",
+      "name": "Hong Kong Premier League"
+    },
+    {
+      "leagueKey": "Indonesian League",
+      "name": "Indonesian Super League"
+    },
+    {
+      "leagueKey": "Philippines League",
+      "name": "Philippine Football League"
+    },
+    {
+      "leagueKey": "Saudi League",
+      "name": "Saudi Pro League",
+      "secondLeague": {
+        "key": "Saudi Second League",
+        "name": "Saudi First Division League"
+      }
+    },
+    {
+      "leagueKey": "United Arab Emirates League",
+      "name": "Emirati Pro League"
+    },
+    {
+      "leagueKey": "Qatar League",
+      "name": "Qatari Stars League"
+    },
+    {
+      "leagueKey": "Uzbek League",
+      "name": "Uzbek Super League"
+    },
+    {
+      "leagueKey": "Iranian League",
+      "name": "Iranian Persian Gulf Pro League"
+    },
+    {
+      "leagueKey": "Jordanian League",
+      "name": "Jordanian Pro League"
+    },
+    {
+      "leagueKey": "Iraq League",
+      "name": "Iraqi Stars League"
+    },
+    {
+      "leagueKey": "Bahrain League",
+      "name": "Bahraini Premier League"
+    },
+    {
+      "leagueKey": "Omani League",
+      "name": "Omani Professional League"
+    },
+    {
+      "leagueKey": "Kuwait League",
+      "name": "Kuwaiti Premier League"
+    },
+    {
+      "leagueKey": "Lebanese League",
+      "name": "Lebanese Premier League"
+    },
+    {
+      "leagueKey": "Indian League",
+      "name": "Indian Super League"
+    },
+    {
+      "leagueKey": "Bangladeshi league",
+      "name": "Bangladeshi Premier League"
+    }
+  ]
+}

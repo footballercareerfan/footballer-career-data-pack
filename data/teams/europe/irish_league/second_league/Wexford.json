@@ -1,0 +1,53 @@
+
+{
+  "teamKey": "Wexfrd",
+  "name": "Wexford FC",
+  "logo": "assets/logos/europe/irish/Wexford.png",
+  "manager": {
+    "name": "Stephen Elliott",
+    "country": "IE"
+  },
+  "stadium": {
+    "name": "Ferrycarrig Park",
+    "capacity": 2500
+  },
+  "players": [
+    {"playerId": "player_ie2_010_01", "name": "Alex Moody", "number": 1, "position": "GK", "country": "IE", "status": "starter"},
+    {"playerId": "player_ie2_010_02", "name": "Max Murphy", "number": 2, "position": "RB", "country": "IE", "status": "starter"},
+    {"playerId": "player_ie2_010_03", "name": "Robbie McCourt", "number": 5, "position": "CB", "country": "IE", "status": "starter"},
+    {"playerId": "player_ie2_010_04", "name": "Dylan Hand", "number": 21, "position": "CB", "country": "IE", "status": "starter"},
+    {"playerId": "player_ie2_010_05", "name": "Evan Osam", "number": 3, "position": "LB", "country": "IE", "status": "starter"},
+    {"playerId": "player_ie2_010_06", "name": "Rhys Bartley", "number": 6, "position": "CM", "country": "IE", "status": "starter"},
+    {"playerId": "player_ie2_010_07", "name": "Adam Verdon", "number": 4, "position": "CM", "country": "IE", "status": "starter"},
+    {"playerId": "player_ie2_010_08", "name": "Zayd Abada", "number": 8, "position": "CM", "country": "IE", "status": "starter"},
+    {"playerId": "player_ie2_010_09", "name": "Jamie Wynne", "number": 11, "position": "CAM", "country": "IE", "status": "starter"},
+    {"playerId": "player_ie2_010_10", "name": "Mikie Rowe", "number": 7, "position": "ST", "country": "IE", "status": "starter"},
+    {"playerId": "player_ie2_010_11", "name": "Jake Doyle", "number": 33, "position": "ST", "country": "IE", "status": "starter"},
+
+    {"playerId": "player_ie2_010_12", "name": "Paul Martin", "number": 20, "position": "GK", "country": "IE", "status": "bench"},
+    {"playerId": "player_ie2_010_13", "name": "Kian Dignam", "number": 26, "position": "CB", "country": "IE", "status": "bench"},
+    {"playerId": "player_ie2_010_14", "name": "Ryan Butler", "number": 25, "position": "RB", "country": "IE", "status": "bench"},
+    {"playerId": "player_ie2_010_15", "name": "Oscar Ramsey", "number": 35, "position": "CB", "country": "IE", "status": "bench"},
+    {"playerId": "player_ie2_010_16", "name": "Kaylem Harnett", "number": 10, "position": "CM", "country": "IE", "status": "bench"},
+    {"playerId": "player_ie2_010_17", "name": "Liam Doyle", "number": 14, "position": "CM", "country": "IE", "status": "bench"},
+    {"playerId": "player_ie2_010_18", "name": "Jack Larkin", "number": 23, "position": "CAM", "country": "IE", "status": "bench"},
+    {"playerId": "player_ie2_010_19", "name": "Gideon Tetteh", "number": 17, "position": "LW", "country": "IE", "status": "bench"},
+    {"playerId": "player_ie2_010_20", "name": "Billy Vance", "number": 22, "position": "LW", "country": "IE", "status": "bench"},
+    {"playerId": "player_ie2_010_21", "name": "Gavin Hodgins", "number": 19, "position": "ST", "country": "IE", "status": "bench"},
+
+    {"playerId": "player_ie2_010_22", "name": "Pa Doyle", "number": 30, "position": "GK", "country": "IE", "status": "reserve"},
+    {"playerId": "player_ie2_010_23", "name": "Adam Dobbyn", "number": 34, "position": "CB", "country": "IE", "status": "reserve"},
+    {"playerId": "player_ie2_010_24", "name": "Zak O'Sullivan", "number": 9, "position": "ST", "country": "IE", "status": "reserve"},
+    {"playerId": "player_ie2_010_25", "name": "Ivan Voloshyn", "number": 28, "position": "ST", "country": "UA", "status": "reserve"}
+  ],
+  "tactics": {
+    "formation": "4-3-1-2",
+    "captain": 5,
+    "setPieces": {
+      "penalty": 7,
+      "freeKick": 11,
+      "cornerLeft": 11,
+      "cornerRight": 8
+    }
+  }
+}
